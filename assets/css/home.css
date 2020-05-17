@@ -1,0 +1,25 @@
+.box {
+    padding: 20px;
+    background-color: #d6d6d5;
+    border-radius: 20px;
+    color: #6b6b6b;
+}
+
+.box svg {
+    font-size: 32px;
+}
+
+.box .content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box .content h3 {
+    margin: 0px;
+}
+
+.box .des span {
+    display: block;
+    margin-top: 10px;
+    font-weight: 500px;
+}
